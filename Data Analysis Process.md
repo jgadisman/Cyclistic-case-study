@@ -20,4 +20,4 @@ Import data from Divvy 2019 Q1 and Divvy 2020 Q1
       - calculated number of rides and average duration
       - visualized the number of rides by rider type
       - created a visualization for average ride duration
-4.  Exported a summary file csv for further analysis
+4.  Exported a csv summary file for further analysis
