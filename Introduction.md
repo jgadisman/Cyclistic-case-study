@@ -1,7 +1,7 @@
 The purpose of this case study is to research how to convert casual riders into annual members
 
-better understand how annual members and casual riders differ
+1.  Better understand how annual members and casual riders differ
 
-why casual riders would buy a membership
+2.  Why casual riders would buy a membership
 
-how digital media could affect their marketing tactics
+3.  How digital media could affect their marketing tactics
